@@ -1,0 +1,14 @@
+C:\Users\legui\source\repos\TODOApi\TODOApi\bin\Debug\netcoreapp2.2\TODOApi.deps.json
+C:\Users\legui\source\repos\TODOApi\TODOApi\bin\Debug\netcoreapp2.2\TODOApi.runtimeconfig.json
+C:\Users\legui\source\repos\TODOApi\TODOApi\bin\Debug\netcoreapp2.2\TODOApi.runtimeconfig.dev.json
+C:\Users\legui\source\repos\TODOApi\TODOApi\bin\Debug\netcoreapp2.2\TODOApi.dll
+C:\Users\legui\source\repos\TODOApi\TODOApi\bin\Debug\netcoreapp2.2\TODOApi.pdb
+C:\Users\legui\source\repos\TODOApi\TODOApi\obj\Debug\netcoreapp2.2\TODOApi.csprojAssemblyReference.cache
+C:\Users\legui\source\repos\TODOApi\TODOApi\obj\Debug\netcoreapp2.2\TODOApi.csproj.CoreCompileInputs.cache
+C:\Users\legui\source\repos\TODOApi\TODOApi\obj\Debug\netcoreapp2.2\TODOApi.RazorAssemblyInfo.cache
+C:\Users\legui\source\repos\TODOApi\TODOApi\obj\Debug\netcoreapp2.2\TODOApi.RazorAssemblyInfo.cs
+C:\Users\legui\source\repos\TODOApi\TODOApi\obj\Debug\netcoreapp2.2\TODOApi.AssemblyInfoInputs.cache
+C:\Users\legui\source\repos\TODOApi\TODOApi\obj\Debug\netcoreapp2.2\TODOApi.AssemblyInfo.cs
+C:\Users\legui\source\repos\TODOApi\TODOApi\obj\Debug\netcoreapp2.2\TODOApi.RazorTargetAssemblyInfo.cache
+C:\Users\legui\source\repos\TODOApi\TODOApi\obj\Debug\netcoreapp2.2\TODOApi.dll
+C:\Users\legui\source\repos\TODOApi\TODOApi\obj\Debug\netcoreapp2.2\TODOApi.pdb

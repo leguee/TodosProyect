@@ -1,0 +1,14 @@
+C:\Users\legui\source\repos\TODOApi\TODOApi\bin\Debug\netcoreapp2.2\ExchangeRateApi.deps.json
+C:\Users\legui\source\repos\TODOApi\TODOApi\bin\Debug\netcoreapp2.2\ExchangeRateApi.runtimeconfig.json
+C:\Users\legui\source\repos\TODOApi\TODOApi\bin\Debug\netcoreapp2.2\ExchangeRateApi.runtimeconfig.dev.json
+C:\Users\legui\source\repos\TODOApi\TODOApi\bin\Debug\netcoreapp2.2\ExchangeRateApi.dll
+C:\Users\legui\source\repos\TODOApi\TODOApi\bin\Debug\netcoreapp2.2\ExchangeRateApi.pdb
+C:\Users\legui\source\repos\TODOApi\TODOApi\obj\Debug\netcoreapp2.2\ExchangeRateApi.csprojAssemblyReference.cache
+C:\Users\legui\source\repos\TODOApi\TODOApi\obj\Debug\netcoreapp2.2\ExchangeRateApi.csproj.CoreCompileInputs.cache
+C:\Users\legui\source\repos\TODOApi\TODOApi\obj\Debug\netcoreapp2.2\ExchangeRateApi.RazorAssemblyInfo.cache
+C:\Users\legui\source\repos\TODOApi\TODOApi\obj\Debug\netcoreapp2.2\ExchangeRateApi.RazorAssemblyInfo.cs
+C:\Users\legui\source\repos\TODOApi\TODOApi\obj\Debug\netcoreapp2.2\ExchangeRateApi.AssemblyInfoInputs.cache
+C:\Users\legui\source\repos\TODOApi\TODOApi\obj\Debug\netcoreapp2.2\ExchangeRateApi.AssemblyInfo.cs
+C:\Users\legui\source\repos\TODOApi\TODOApi\obj\Debug\netcoreapp2.2\ExchangeRateApi.RazorTargetAssemblyInfo.cache
+C:\Users\legui\source\repos\TODOApi\TODOApi\obj\Debug\netcoreapp2.2\ExchangeRateApi.dll
+C:\Users\legui\source\repos\TODOApi\TODOApi\obj\Debug\netcoreapp2.2\ExchangeRateApi.pdb
